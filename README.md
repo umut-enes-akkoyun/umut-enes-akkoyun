@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 -->
 
-<p align="center">&nbsp;<img align="center" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=umut-enes-akkoyun&theme=dark" alt="emreygc7" /></p> 
+<p align="center">&nbsp;<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=umut-enes-akkoyun&theme=dark" alt="emreygc7" /></p> 
