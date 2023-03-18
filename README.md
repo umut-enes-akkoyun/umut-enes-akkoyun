@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Only for job requests
 - 😄 Pronouns: ... He/Him
 -->
+
+<p align="center">&nbsp;<img align="center" width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=umut-enes-akkoyun&theme=dark" alt="emreygc7" /></p> 
