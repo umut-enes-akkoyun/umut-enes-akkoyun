@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... React.js
-- 🌱 I’m currently learning ... Solidity, Django
+- 🌱 I’m currently learning ... Solidity, RUST
 - 💬 Ask me about ... Only for job requests
 - 😄 Pronouns: ... He/Him
 
